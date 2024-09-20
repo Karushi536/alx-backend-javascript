@@ -9,7 +9,9 @@
   "license": "ISC",
   "description": "0x06-unittests_in_js",
   "devDependencies": {
-    "mocha": "^10.7.3"
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2"
   },
   "dependencies": {
     "ansi-colors": "^4.1.3",
